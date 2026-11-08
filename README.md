@@ -1,5 +1,5 @@
 
-<h1 align="center">Eren Yumukoğlu</h1>
+<h1 align="center">Hi, ı'm Eren Yumukoglu</h1>
 
 <h3 align="center">
   Computer Engineering | Technology | Innovation
@@ -35,13 +35,19 @@ My interests include programming, artificial intelligence, robotics, and emergin
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" />
 </p>
 
 ### Technologies & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
 </p>
 
 ---
