@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, ı'm Eren Yumukoglu</h1>
+<h1 align="center">Hi, I'm Eren Yumukoglu</h1>
 
 <h3 align="center">
   Computer Engineering | Technology | Innovation
@@ -64,15 +64,6 @@ My interests include programming, artificial intelligence, robotics, and emergin
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ErenY-00&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenY-00&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
@@ -81,15 +72,11 @@ My interests include programming, artificial intelligence, robotics, and emergin
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ErenY-00&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Connect With Me
+
+<h4 align="center">
+  <b>Open to discussing project ideas, collaboration opportunities, and professional inquiries.</b>
+</h4>
 
 <p align="center">
   <a href="https://github.com/ErenY-00">
@@ -100,6 +87,8 @@ My interests include programming, artificial intelligence, robotics, and emergin
   </a>
 </p>
 
-<p align="center">
-  <i>"Code. Learn. Innovate."</i>
-</p>
+## 
+
+<h4 align="center">
+  <em>Code&nbsp; · &nbsp;Learn&nbsp; · &nbsp;Innovate</em>
+  </h4>
